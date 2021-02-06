@@ -1,0 +1,2 @@
+# LG_Gram_14Z970_OpenCore_Hackintosh
+LG_Gram_14Z970_OpenCore_Hackintosh_Catalina_Catalina 10.15.7
