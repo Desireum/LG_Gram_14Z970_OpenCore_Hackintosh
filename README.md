@@ -32,11 +32,7 @@ OpenCore EFI for LG Gram 14Z970
  - Battery Management
 
 ## Thanks
-
-```markdown
-[quockhanhng](https://github.com/quockhanhng/LG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos)
-```
-
+[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
 
 
 
