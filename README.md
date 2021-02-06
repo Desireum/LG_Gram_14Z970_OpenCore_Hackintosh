@@ -22,7 +22,7 @@ OpenCore EFI for LG Gram 14Z970
  - [x] ACPI Display brightness with hot keys
  - [x] WIFI
  - [x] Ethernet
- - [x] HDMI + Audio
+ - [x] HDMI + Audio(But it needs to unplug and re-plug after reboot or waking from sleep)
  - [x] Smart Touchpad + Gestures (but not really compatible)
  - [x] Sleep + Wake
  - [x] USB 3.0 + Type C
@@ -32,9 +32,10 @@ OpenCore EFI for LG Gram 14Z970
  - Battery Management
 
 ## Thanks
-[quockhanhng
-/
-LG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos](https://github.com/quockhanhng/LG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos)
+[OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
+
+[quockhanhngLG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos](https://github.com/quockhanhng/LG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos)
+
 
 
 
