@@ -34,9 +34,7 @@ OpenCore EFI for LG Gram 14Z970
 ## Thanks
 
 ```markdown
-[quockhanhng
-/
-LG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos](https://github.com/quockhanhng/LG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos)
+[quockhanhng](https://github.com/quockhanhng/LG_Gram_15Z970-G.AH55A5_OpenCore_Hackintos)
 ```
 
 
