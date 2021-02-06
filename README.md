@@ -22,6 +22,7 @@
  - [x] ACPI Display brightness with hot keys
  - [x] WIFI
  - [x] Ethernet
+ - [x] Bluetooth
  - [x] HDMI + Audio(But it needs to unplug and re-plug after reboot or waking from sleep)
  - [x] Smart Touchpad + Gestures (but not really compatible)
  - [x] Sleep + Wake
