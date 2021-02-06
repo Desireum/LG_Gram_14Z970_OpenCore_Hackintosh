@@ -1,6 +1,6 @@
-LG_Gram_14Z970_OpenCore_Hackintosh
+# LG_Gram_14Z970_OpenCore_Hackintosh
 
-OpenCore EFI for LG Gram 14Z970
+# OpenCore EFI for LG Gram 14Z970
 
 ## Overview
 
